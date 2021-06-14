@@ -1,1 +1,1 @@
-sphinx-panels=0.5.2
+sphinx-panels==0.5.2
