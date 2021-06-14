@@ -1,17 +1,18 @@
-Fast Tracking
-=============
+FE Tracking
+===========
 
 .. meta::
-   :description lang=en: FE Tracking ...... blabla....
+   :description lang=en: FE Tracking offers participants the possibility to show a route including points of interest and checkpoints along the route.
    
    
 Getting started
 ---------------
 
-A global overview of the :doc:`features <getting-started/introduction>` that *FE Tracking* App supports and how to :doc:`install <getting-started/installation>` and :doc:`configure <getting-started/settings>` the App.
+The FE Tracking App can be used as an addition to the `Fast Events WordPress plugin <https://docs.fast-events.eu/>`_. The App offers participants - especially in sports events - the possibility
+to show a route including points of interest and checkpoints along the route. The App registers the date and time of the passage of checkpoints and can,
+if the participant chooses, automatically upload these to the server of the event organisation.
 
-* **Feature overview of FE Tracking**:
-  :doc:`Introduction <getting-started/introduction>`
+
 * **Install the FE Tracking App**:
   :doc:`Installation <getting-started/installation>`
 * **Overview**:
@@ -27,7 +28,6 @@ A global overview of the :doc:`features <getting-started/introduction>` that *FE
    :hidden:
    :caption: Getting started
 
-   getting-started/introduction
    getting-started/installation
    getting-started/overview
    getting-started/settings
@@ -40,6 +40,8 @@ How to use the different menu choices.
 
 * **Tracks overview**:
   :doc:`Tracks <usage/tracks>`
+* **FAQ**:
+  :doc:`FAQ <usage/faq>`
 * **Donate**:
   :doc:`Donate <usage/donate>`
 
@@ -50,6 +52,7 @@ How to use the different menu choices.
    :caption: Usage
 
    usage/tracks
+   usage/faq
    usage/donate
 
    

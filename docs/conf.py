@@ -20,7 +20,7 @@ sys.path.append(os.path.dirname(__file__))
 # -- Project information -----------------------------------------------------
 
 project = 'FE Tracking App'
-copyright = '2020-{}, FE Data & contributors. '.format(datetime.date.today().year)
+copyright = '2021-{}, FE Data & contributors. '.format(datetime.date.today().year)
 author = 'FE Data'
 
 
@@ -31,9 +31,7 @@ author = 'FE Data'
 # ones.
 extensions = [
    'sphinx_rtd_theme',
-   'sphinx_tabs.tabs',
-   'sphinxcontrib.httpdomain',
-   'sphinx_copybutton',
+   'sphinx_panels',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -57,3 +55,8 @@ html_theme = 'sphinx_rtd_theme'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 html_show_sphinx = False
+html_css_files = [
+    'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css',
+    'css/custom.css',
+]
+
