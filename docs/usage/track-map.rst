@@ -44,7 +44,7 @@ Recording
 
 When the track is recorded, the tracked route is visible (blue line) and the distance and speed are displayed at the top of the screen.
 As soon as a checkpoint is passed, the colour of the circle changes to transparent green.
-And if ``Upload checkpoints`` is `selected in the settings <../getting-started/settings.html#general-settings>`_, the date and time are transferred to the server of the event organisation.
+And the date and time are transmitted to the event organiser's server.
 
 Recording can be paused when you take a break to rest, for example. Pausing the recording is a good way to save the phone's battery life.
 

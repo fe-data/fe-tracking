@@ -8,9 +8,10 @@ FE Tracking
 Getting started
 ---------------
 
-The FE Tracking App can be used as an addition to the `Fast Events WordPress plugin <https://docs.fast-events.eu/>`_. The App offers participants - especially in sports events - the possibility
-to show a route including points of interest and checkpoints along the route. The App registers the date and time of the passage of checkpoints and can,
-if the participant chooses, automatically upload these to the server of the event organisation.
+The FE Tracking App can be used as an addition to the `Fast Events WordPress plugin <https://docs.fast-events.eu/>`_.
+The App offers participants - especially in sports events - the possibility
+to show a route including points of interest and checkpoints along the route.
+The App records the date and time of passing the checkpoints and automatically uploads them to to the event organisation's server.
 
 
 * **Install the FE Tracking App**:

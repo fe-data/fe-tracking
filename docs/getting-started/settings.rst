@@ -6,7 +6,7 @@ Settings
 
    .. raw:: html
 
-      <div style="padding:159.72% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/555131123?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+      <div style="padding:159.72% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566485834?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
    ---
    All changes made to the settings are applied immediately.
 
@@ -14,13 +14,6 @@ Settings
 
 General settings
 ----------------
-
-Upload checkpoints
-  If this is switched on, the organisation's server will be notified when a checkpoint is passed.
-  Checkpoints that have already been passed will not be reported to the organisation. If mobile data and/or WiFi is not available the App will retry as soon there is a data connection.
-  Data usage is very minimal; it is less than 1k per checkpoint.
-
-  No privacy-sensitive information is transmitted to the server. The name of the checkpoint, date and time when it was passed, the qrcode of the eticket and two signatures that are unique for the route and checkpoint for this eticket.
 
 Sound
   A short sound is played as soon as a checkpoint is passed, if this setting is switched on.
