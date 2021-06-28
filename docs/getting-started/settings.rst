@@ -61,3 +61,5 @@ Reset App
       Reset App screen
    ---
    Reset all settings to their default values. This does not affect existing tracks that have been or will be travelled.
+
+|
