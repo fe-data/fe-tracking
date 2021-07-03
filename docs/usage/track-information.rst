@@ -66,7 +66,6 @@ Information
 
 "Checkpoints" screen
   This screen shows an overview when checkpoints have been passed and when this information has been uploaded to the event organisation's server.
-  The upload is only shown and executed when the :guilabel:`Upload checkpoints` setting in the `Settings <../getting-started/settings.html#general-settings>`_ is enabled.
 
 "Qrcode" screen
   This qrcode can be shown, for example, if the organisation does not use "automatic" checkpoints on the route, but instead performs the scans manually.

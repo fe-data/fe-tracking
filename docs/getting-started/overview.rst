@@ -66,4 +66,4 @@ Permission overview
 |
 
 .. warning:: Periodically, both IOS and Android will show reminders that the App can always request location data and if the App is not used for a long time, this permission will be withdrawn.
-   So if the App has not been used for a long time and it is restarted again, make sure that the location permission is set to ``Always``.
+   So if the App has not been used for a long time and it is restarted again, make sure that the location permission is set to ``Always`` for IOS or ``Allow all the time`` for Android.
