@@ -18,5 +18,5 @@ Finish
 
 |
 
-When all checkpoints are passed, the qrcode icon turns green and can be shown to the organisation at the end of the track if requested.
+When all checkpoints are passed **and** uploaded to the event organisation's server, the qrcode icon turns green and can be shown to the organisation at the end of the track if requested.
 It can be used, for example, as proof that the entire track has been covered and that a medal or other form of proof of participation will be issued.

@@ -67,5 +67,10 @@ Information
 "Checkpoints" screen
   This screen shows an overview when checkpoints have been passed and when this information has been uploaded to the event organisation's server.
 
+  It can happen that due to a bad network connection, the upload to the event organisation's server did not take place.
+  Or, for example, because there is no network connection at all and mobile data and WiFi are switched off.
+  All passages of checkpoints must be uploaded to the event organisation's server, otherwise the finish/exit qrcode cannot be displayed.
+  If the Internet connection is restored, the :fa:`cloud-upload fa-fw fa-lg text-primary` button can be pressed to perform the upload manually.
+
 "Qrcode" screen
   This qrcode can be shown, for example, if the organisation does not use "automatic" checkpoints on the route, but instead performs the scans manually.

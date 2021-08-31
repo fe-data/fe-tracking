@@ -35,7 +35,7 @@ Context menu
   Change the :doc:`event title <track-change>` in the event overview
 
 :fa:`qrcode fa-fw fa-lg text-muted` or :fa:`qrcode fa-fw fa-lg text-success` or :fa:`qrcode fa-fw fa-lg text-success opacity-4`
-  When all checkpoints are passed, the qrcode will turn green and the :doc:`Finish/exit qrcode <track-finish>` can be shown if the organisation requests it.
+  When all checkpoints are passed **and** uploaded to the event organisation's server, the qrcode will turn green and the :doc:`Finish/exit qrcode <track-finish>` can be shown if the organisation requests it.
   This is only possible within the tracking window. See the :doc:`Information screen <track-information>`.
   Outside the tracking window, the icon is grey or transparent green when all checkpoints have been passed.
 
@@ -73,6 +73,8 @@ Add tracks
 .. warning:: Tickets can be downloaded several times. If this happens on different phones, the one who has downloaded last is the '**owner**' of the ticket.
    All actions to have the ticket scanned or passing a checkpoint uploaded to the event organisation's server will fail for the one who downloaded the ticket earlier.
 
+   If the track supports realtime news and track updates, your ticket will be invalidated immediately as soon it is downloaded on another phone.
+
    **So be careful not to distribute the ticket but to keep it for yourself.**
 
    If you want to download the track again, you will have to delete it first.
@@ -105,10 +107,36 @@ Recording
 
 ----
 
+Track status
+------------
+If the event supports real-time news and route updates, there is an icon in the top left corner of the route overview that indicates the status.
+
+.. image:: ../_static/images/usage/Connection-icon.png
+
+There is an active connection with the event. As soon there is a news message or track update, it will be processed.
+The connection remains active until the tracking window has expired.
+
+.. image:: ../_static/images/usage/Connection-not-icon.png
+
+The connection to the server is not active, usually this is temporary.
+Make sure that you have an active data connection via the mobile data network.
+
+.. image:: ../_static/images/usage/Connection-grey-icon.png
+
+The tracking window has expired and it is no longer necessary to connect to the server.
+
+:fa:`times fa-fw fa-lg text-danger`
+
+The ticket has been invalidated. Either it was downloaded on another phone, or it was invalidated by the organisation.
+Further actions with the event are not possible. It can only be removed from the overview.
+
+----
+
 Screens
 -------
 * :doc:`Map <track-map>`
 * :doc:`Change <track-change>`
+* :doc:`News <track-news>`
 * :doc:`Finish <track-finish>`
 * :doc:`Information <track-information>`
 * :doc:`Record <track-record>`
@@ -119,6 +147,7 @@ Screens
 
    track-map
    track-change
+   track-news
    track-finish
    track-information
    track-record

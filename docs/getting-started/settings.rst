@@ -6,17 +6,38 @@ Settings
 
    .. raw:: html
 
-      <div style="padding:159.72% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566485834?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+      <div style="padding:159.72% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/595173094?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
    ---
    All changes made to the settings are applied immediately.
 
 ----
 
-General settings
-----------------
+Checkpoint settings
+-------------------
 
 Sound
-  A short sound is played as soon as a checkpoint is passed, if this setting is switched on.
+  Make a sound when you approach a checkpoint, if this setting is switched on.
+
+Text-to-speech
+  A spoken text is played when you approach a checkpoint, if this setting is switched on. See also the next setting.
+
+Text-to-speech format
+  This is the sentence that is spoken when you approach a checkpoint. The **{}** part is the name of the checkpoint.
+
+----
+
+News settings
+-------------
+An event supports real-time messages if the :fa:`commenting-o fa-fw fa-lg text-primary` icon is visible in the routes overview for the route in question.
+
+Sound
+  A short sound is played as soon as a news item comes in, if this setting is switched on.
+
+Text-to-speech
+  The message is spoken as soon as a news item comes in, if this setting is switched on. See also the next setting.
+
+Text-to-speech format
+  This is the sentence that is spoken when a news item comes in. The **{}** part is the message.
 
 ----
 

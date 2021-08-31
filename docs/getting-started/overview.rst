@@ -7,7 +7,7 @@ First time use
    :container: container-lg
    :column: col-lg-6 col-md-12 col-sm-12
 
-   The first time the FE Tracking App is launched, a warning is shown that the App uses location data to determine where
+   The first time the *FE Tracking* App is launched, a warning is shown that the App uses location data to determine where
    the phone is in order to check whether a checkpoint has been passed. When using different parts of the App,
    you will be asked for permission to use e.g. the camera or location data.
    ---
