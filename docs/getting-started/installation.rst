@@ -18,7 +18,7 @@ background (such as *FE Tracking* when it is recording) are forcefully shut down
 Alarm Apps, Health Apps and Location Apps are then the victims of this policy, while the standard Android version usually handles this well.
 Also if battery optimisation Apps are used (Android and IOS) it can have a negative impact on *FE Tracking*. If such Apps are used make sure that *FE Tracking* is excluded from optimization, if possible.
 
-If this happens to you, remember this is not an App problem, but a a Device manufacturer problem.
+If this happens to you, remember this is not an App problem, but it is a Device manufacturer problem.
 
 Check `this site <https://dontkillmyapp.com>`_ to find out if your phone uses device-specific optimisations.
 The general rule is to exclude the *FE Tracking* App from battery optimisation rules, if possible. Often these settings are deeply "hidden" in the phone's settings.
@@ -26,7 +26,7 @@ The general rule is to exclude the *FE Tracking* App from battery optimisation r
 Further optimizations
 ---------------------
 *FE Tracking* is very battery-conscious. When track recording is enabled it will automatically start recording a location according to the configured distanceFilter (meters).
-When the device is detected be stationary, *FE Tracking* will automatically turn off location-services to conserve energy.
+When the device is detected to be stationary, *FE Tracking* will automatically turn off location-services to conserve energy.
 
 Nevertheless, further optimisations are certainly possible in order to use the battery as efficiently as possible.
 
@@ -34,7 +34,7 @@ Nevertheless, further optimisations are certainly possible in order to use the b
 #. Do not run other Apps in the background. Make sure *FE Tracking* is the only App running in the background.
 #. Avoid using social media Apps and streaming Apps. They are known as notorious battery abusers.
    Search on the Internet for ``social media App battery usage`` and you will find good suggestions.
-#. If you pause for more than 5 minutes while walking, cycling, ... temporarily turn track recoding off and turn it on again when you continue.
+#. If you pause for more than 5 minutes while walking, cycling, ... temporarily turn track recording off and turn it on again when you continue.
 #. The amount of data that *FE Tracking* uses for checkpoints and optional news and route updates is very limited and in most situations is
    not more than a few 10-kilobytes. For very long routes it might be a few megabytes.
    This data will almost always be sent via the mobile data network.
@@ -53,7 +53,7 @@ Nevertheless, further optimisations are certainly possible in order to use the b
 
 Languages
 ---------
-*FE Tracking* supports standard two languages: English and Dutch. You can add you own language by following the next steps:
+*FE Tracking* supports standard two languages: English and Dutch. You can add your own language by following the next steps:
 
 #. Make sure you have a `Github <https://github.com>`_ account.
 #. Check the ``languages`` folder of `https://github.com/fe-data/fe-tracking-languages <https://github.com/fe-data/fe-tracking-languages>`_ if your language is supported.

@@ -1,6 +1,13 @@
 Changelog
 =========
 
+v1.1.1 (7 September 2021)
+-------------------------
+* Fixed: Used wrong API-version in communication with server
+* Fixed: Don't allow browsing outside pan area
+* Fixed: Keep map centered if device is moving
+* Fixed: Warn if Text-To-Speech language is not available
+
 v1.1.0 (31 August 2021)
 -----------------------
 * Added: Realtime news from the event organizer
