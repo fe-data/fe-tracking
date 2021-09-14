@@ -23,6 +23,13 @@ Getting started
 
 |
 
+Typical use
+-----------
+Use the App to scan a printed ticket or a downloaded PDF ticket.
+Turn recording on at the start of the route, turn off the screen and put it in a bracelet, for example.
+Stop recording at the end of the route and show the finish/Exit qrcode to the organisation in order to receive,
+for example, a medal or any other form of proof of participation.
+
 * **Install the *FE Tracking* App**:
   :doc:`Installation <getting-started/installation>`
 * **Overview**:

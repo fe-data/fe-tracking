@@ -67,3 +67,4 @@ As moderator you may receive review requests from other translators. Process the
 #. For initial translations we only accept a full translation of the whole file. Partial translations will be rejected.
 #. Once we have processed the pull request, the translation will be available for the App within 15 minutes if you re-install the App.
    If you don't re-install the App it may take up to 12 hours before the App is aware of the new language.
+#. There is only 1 moderator per language.
