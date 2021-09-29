@@ -1,6 +1,12 @@
 Changelog
 =========
 
+v1.2 (29 September 2021)
+--------------------------
+* New: Import a track directly from the order-page or a received email, using deeplinks. You no longer need to scan or print the ticket.
+* Fixed: Increased PDF scan resolution.
+* Upgraded internal components.
+
 v1.1.2 (14 September 2021)
 --------------------------
 * Fixed: App can block during startup if there is no network coverage
