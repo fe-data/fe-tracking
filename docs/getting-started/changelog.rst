@@ -1,6 +1,10 @@
 Changelog
 =========
 
+v1.2.1 (7 October 2021)
+-----------------------
+Small bug fixes.
+
 v1.2 (29 September 2021)
 --------------------------
 * New: Import a track directly from the order-page or a received email, using deeplinks. You no longer need to scan or print the ticket.
