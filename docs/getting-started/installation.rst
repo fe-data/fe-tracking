@@ -1,6 +1,6 @@
 Installation
 ============
-The *FE Tracking* App is available for Android 7.0 and later and IOS 10.0 and later.
+The *FE Tracking* App is available for Android 8.0 and later and IOS 10.0 and later.
 
 .. list-table::
 

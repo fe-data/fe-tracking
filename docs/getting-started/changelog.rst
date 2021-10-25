@@ -1,6 +1,12 @@
 Changelog
 =========
 
+v1.3 (25 October 2021)
+-----------------------
+* New: Share your track with your family and friends in real time while walking, cycling, ... Only if the event organization allows sharing and if sharing is enabled in the App settings.
+* Changed: Android 8.0 is now the minimum supported version
+* Better error handling
+
 v1.2.1 (7 October 2021)
 -----------------------
 Small bug fixes.
