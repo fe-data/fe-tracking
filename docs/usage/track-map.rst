@@ -20,7 +20,7 @@ Overview
 
 Stopped
 -------
-Before the track is recorded, the standard track is just visible and you can see for example which POIs are available on the route and what the route looks like.
+Before the track is recorded, the standard track is just visible and you can see for example which POIs are available on the track and what the track looks like.
 All checkpoints are also visible on the track as transparent black circles.
 
 Recording
@@ -42,10 +42,10 @@ Recording
 
 |
 
-When the track is recorded, the tracked route is visible (blue line) and the distance and speed are displayed at the top of the screen.
+When the track is recorded, the tracked track is visible (blue line) and the distance and speed are displayed at the top of the screen.
 As soon as a checkpoint is passed, the colour of the circle changes to transparent green.
 And the date and time are transmitted to the event organiser's server.
 
 Recording can be paused when you take a break to rest, for example. Pausing the recording is a good way to save the phone's battery life.
 
-You can of course still view the recorded route in pause mode and, for example, :guilabel:`Share` the route by pressing the :fa:`share-alt fa-fw fa-lg text-primary` icon in the top right of the screen.
+You can of course still view the recorded track in pause mode and, for example, :guilabel:`Share` the track by pressing the :fa:`share-alt fa-fw fa-lg text-primary` icon in the top right of the screen.

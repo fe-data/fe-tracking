@@ -28,7 +28,7 @@ Text-to-speech format
 
 News settings
 -------------
-An event supports real-time messages if the :fa:`commenting-o fa-fw fa-lg text-primary` icon is visible in the routes overview for the route in question.
+An event supports real-time messages if the :fa:`commenting-o fa-fw fa-lg text-primary` icon is visible in the tracks overview for the track in question.
 
 Sound
   A short sound is played as soon as a news item comes in, if this setting is switched on.
@@ -45,12 +45,13 @@ Map settings
 ------------
 
 Disable checkpoint circles
-  The checkpoints on the route are shown as light grey circles and light green circles when a checkpoint is passed.
+  The checkpoints on the ttrack are shown as light grey circles and light green circles when a checkpoint is passed.
   Disabling this option has no effect on the indication of whether a checkpoint has been passed or not.
   If uploading is selected, the date and time of passing the checkpoint is still sent to the event organisation's server.
 
 Realtime sharing
-  Use real-time route sharing with your family, friends, ... while you are walking, cycling, running, ... This is only possible if the event organiser allows sharing and if this switch is on.
+  Use real-time track sharing with your family, friends, etc while you are walking, cycling, running, ...
+  This is only possible if the event organiser allows sharing and if this switch is on.
 
 Track color
   The colour of the track on the map. Click on the coloured circle to change its colour.
@@ -62,13 +63,13 @@ Location color
   The colour of the current location and direction on the map. Click on the coloured circle to change its colour.
      
 Live tracking color
-  The colour of the line of the route travelled. Click on the coloured circle to change its colour.
+  The colour of the line of the track travelled. Click on the coloured circle to change its colour.
 
 Live tracking line width
-  The line width (1 - 10) of the route travelled.
+  The line width (1 - 10) of the track travelled.
 
 Export file type
-  The file format (GPX or KML) used in the map part of the App to share the travelled route with another App.
+  The file format (GPX or KML) used in the map part of the App to share the travelled track with another App.
 
 ----
 

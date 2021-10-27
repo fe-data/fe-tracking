@@ -42,7 +42,7 @@ Information
 
 "Information" screen
   The information screen shows the order data, but also when the event is active, the so-called tracking-window.
-  Only when the event is active, the route can be recorded and the ``Finish/exit`` qrcode can be shown to the organisation when requested.
+  Only when the event is active, the track can be recorded and the ``Finish/exit`` qrcode can be shown to the organisation when requested.
 
 ----
 

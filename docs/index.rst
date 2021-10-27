@@ -18,7 +18,7 @@ Getting started
    ---
    The *FE Tracking* App can be used as an addition to the `Fast Events WordPress plugin <https://docs.fast-events.eu/>`_.
    The App offers participants - especially in sports events - the possibility
-   to show a route including points of interest and checkpoints along the route.
+   to show a track including points of interest and checkpoints along the route.
    The App records the date and time of passing the checkpoints and automatically uploads them to to the event organisation's server.
 
 |
@@ -27,8 +27,11 @@ Typical use
 -----------
 Use the App to scan a printed ticket or a downloaded PDF ticket.
 Turn recording on at the start of the route, turn off the screen and put it in a bracelet, for example.
-Stop recording at the end of the route and show the finish/Exit qrcode to the organisation in order to receive,
+Stop recording at the end of the track and show the finish/Exit qrcode to the organisation in order to receive,
 for example, a medal or any other form of proof of participation.
+
+The event organiser can also choose to make real-time messages and real-time track updates available to the user of the FE Tracking App.
+Users can also share their track with family and friends while walking, cycling, etc
 
 * **Install the *FE Tracking* App**:
   :doc:`Installation <getting-started/installation>`
@@ -57,6 +60,8 @@ How to use the different menu choices.
 
 * **Tracks overview**:
   :doc:`Tracks <usage/tracks>`
+* **Shared tracks overview**:
+  :doc:`Shared tracks <usage/shared-tracks>`
 * **FAQ**:
   :doc:`FAQ <usage/faq>`
 * **Donate**:
@@ -69,6 +74,7 @@ How to use the different menu choices.
    :caption: Usage
 
    usage/tracks
+   usage/shared-tracks
    usage/faq
    usage/donate
 

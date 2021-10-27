@@ -20,7 +20,7 @@ Record
 
 If the current event is active, it means that the current date falls within the tracking window. See :doc:`Information <track-information>` screen.
 Once this is the case, the recording icon will turn ``red`` instead of ``grey``.
-Clicking on it will start recording the event; it will record the route travelled and check whether any checkpoints are passed.
+Clicking on it will start recording the event; it will record the track travelled and check whether any checkpoints are passed.
 The background of the event will become transparent red, so that in the overview it is clear which event is being recorded.
 
 Whenever a checkpoint is passed, the counter next to the information icon will increase.

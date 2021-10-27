@@ -35,7 +35,7 @@ Nevertheless, further optimisations are certainly possible in order to use the b
 #. Avoid using social media Apps and streaming Apps. They are known as notorious battery abusers.
    Search on the Internet for ``social media App battery usage`` and you will find good suggestions.
 #. If you pause for more than 5 minutes while walking, cycling, ... temporarily turn track recording off and turn it on again when you continue.
-#. The amount of data that *FE Tracking* uses for checkpoints and optional news and route updates is very limited and in most situations is
+#. The amount of data that *FE Tracking* uses for checkpoints and optional news and track updates is very limited and in most situations is
    not more than a few 10-kilobytes. For very long routes it might be a few megabytes.
    This data will almost always be sent via the mobile data network.
    Check your mobile operator's coverage map to see which type of network (``3G, 4G or 5G``) has the best coverage.
@@ -45,10 +45,10 @@ Nevertheless, further optimisations are certainly possible in order to use the b
    Turn off mobile data on all other devices and connect to the hotspot via WiFI. These devices will save quite a bit on battery power.
 #. Of course, you can also buy a small power bank and connect it to your phone. This way you will always have enough power available.
    Especially for long tracks or tracks that take all day, this is highly recommended.
-#. While recording the route, you can use the App to check where you are on the route and see how far you are from the next checkpoint, first aid post, etc...
+#. While recording the route, you can use the App to check where you are on the track and see how far you are from the next checkpoint, first aid post, etc...
    At that moment, map data will be downloaded, which of course happens via the mobile data network and will drain the battery and possibly your mobile data bundle.
    The App uses a map cache, so once a map segment has been downloaded, the next time it is used, the segment is retrieved from the cache. This saves time and money.
-   So if you are at home and have a WiFi connection, you can already explore the route and scroll through it with different zoom levels to fill the map cache.
+   So if you are at home and have a WiFi connection, you can already explore the track and scroll through it with different zoom levels to fill the map cache.
    A great time and cost saver for your mobile data bundle and your battery.
 
 Languages

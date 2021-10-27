@@ -46,10 +46,10 @@ FAQ
 
           Cutting a corner
        ---
-       It depends on the length of the route, whether there are many sharp bends in the route and most importantly, the distance filter defined by the event organisation.
+       It depends on the length of the route, whether there are many sharp bends in the track and most importantly, the distance filter defined by the event organisation.
        The App is optimized for battery-efficiency. It samples the accelerometer periodically while tracking in order to power-down the GPS as soon as the device is determined to be stationary.
        It uses the distance filter to query for the GPS location. But the filter itself is elastic; the faster you go, the larger the distance filter becomes. And ofcourse the other way around.
-       Usually, the organisation sets this filter to at least 10 metres for a walking route and at least 20 metres for bicycles, for example.
+       Usually, the organisation sets this filter to at least 10 metres for a walking track and at least 20 metres for bicycles, for example.
        So yes, the distance measured may be slightly shorter than the real distance due to cutting corners.
 
 .. dropdown:: All checkpoints are passed, but the finish/exit qrcode is not green

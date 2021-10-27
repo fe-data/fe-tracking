@@ -9,7 +9,7 @@ Overview
 
    .. figure:: ../_static/images/usage/Tracks-overview.png
       :target: ../_static/images/usage/Tracks-overview.png
-      :alt: Overview IOS permissions
+      :alt: Overview Tracks
 
       Overview tracks
    ---
@@ -33,6 +33,14 @@ Context menu
 
 :fa:`pencil fa-fw fa-lg text-primary`
   Change the :doc:`event title <track-change>` in the event overview
+
+:fa:`commenting-o fa-fw fa-lg text-primary`
+  Only visible if the event organisation supports real-time message updates.
+  It can show a small badge on the top right displaying the number of unread messages.
+
+:fa:`share-alt fa-fw fa-lg text-primary`
+  Only visible if the event organisation supports track sharing and if you have enabled `Realtime sharing <../getting-started/settings.html#map-settings>`_ in the ``Settings``.
+  After clicking this button you can share the link via email, Signal, WhatsApp, etc with your family, friends, ...
 
 :fa:`qrcode fa-fw fa-lg text-muted` or :fa:`qrcode fa-fw fa-lg text-success` or :fa:`qrcode fa-fw fa-lg text-success opacity-4`
   When all checkpoints are passed **and** uploaded to the event organisation's server, the qrcode will turn green and the :doc:`Finish/exit qrcode <track-finish>` can be shown if the organisation requests it.
@@ -93,7 +101,7 @@ Recording
    Before and after the event, no recordings can be made. The icon is grey and inactive.
 
    When a live recording is started, the icon will change to a pause button and the background of the recorded track will turn transparent red,
-   so that you can clearly see in the overview which route is being recorded.
+   so that you can clearly see in the overview which track is being recorded.
 
    You can pause recording and restart it. For example, if you take a break on your route, it is a good idea to stop recording in order to save the battery.
    ---
@@ -109,7 +117,7 @@ Recording
 
 Track status
 ------------
-If the event supports real-time news and route updates, there is an icon in the top left corner of the route overview that indicates the status.
+If the event supports real-time news and track updates, there is an icon in the top left corner of the route overview that indicates the status.
 
 .. image:: ../_static/images/usage/Connection-icon.png
 
