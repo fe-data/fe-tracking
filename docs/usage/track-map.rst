@@ -49,3 +49,26 @@ And the date and time are transmitted to the event organiser's server.
 Recording can be paused when you take a break to rest, for example. Pausing the recording is a good way to save the phone's battery life.
 
 You can of course still view the recorded track in pause mode and, for example, :guilabel:`Share` the track by pressing the :fa:`share-alt fa-fw fa-lg text-primary` icon in the top right of the screen.
+
+Graphs
+------
+.. panels::
+   :container: container-lg
+   :column: col-lg-6 col-md-12 col-sm-12
+
+   .. figure:: ../_static/images/usage/Shared-track-speed.png
+      :target: ../_static/images/usage/Shared-track-speed.png
+      :alt: Speed graph
+
+      Speed graph
+   ---
+   .. figure:: ../_static/images/usage/Shared-track-speed-touch.png
+      :target: ../_static/images/usage/Shared-track-speed-touch.png
+      :alt: Speed graph (touch line)
+
+      Speed graph (touch line)
+
+|
+
+Press the :fa:`bar-chart fa-fw fa-lg text-primary` icon to show the speed graph and altitude graph.
+Touch the line graph to show the intermediate data.

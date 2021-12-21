@@ -1,6 +1,11 @@
 Changelog
 =========
 
+v1.4 (21 December 2021)
+-----------------------
+* New: Line charts for tracks and shared tracks.
+* New: New setting to centralise the map at the current location.
+
 v1.3 (25 October 2021)
 -----------------------
 * New: Share your track with your family and friends in real time while walking, cycling, ... Only if the event organization allows sharing and if sharing is enabled in the App settings.

@@ -55,3 +55,24 @@ Shared track map
 Click on the shared track to show the map. Here you can see the progress of the participant on the track.
 This can be in real-time or after the participant has travelled at least a certain distance.
 This is set by the event organisation.
+
+.. panels::
+   :container: container-lg
+   :column: col-lg-6 col-md-12 col-sm-12
+
+   .. figure:: ../_static/images/usage/Shared-track-speed.png
+      :target: ../_static/images/usage/Shared-track-speed.png
+      :alt: Speed graph
+
+      Speed graph
+   ---
+   .. figure:: ../_static/images/usage/Shared-track-speed-touch.png
+      :target: ../_static/images/usage/Shared-track-speed-touch.png
+      :alt: Speed graph (touch line)
+
+      Speed graph (touch line)
+
+|
+
+Touch the line graph to show the intermediate data.
+

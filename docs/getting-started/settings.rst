@@ -45,13 +45,16 @@ Map settings
 ------------
 
 Disable checkpoint circles
-  The checkpoints on the ttrack are shown as light grey circles and light green circles when a checkpoint is passed.
+  The checkpoints on the track are shown as light grey circles and light green circles when a checkpoint is passed.
   Disabling this option has no effect on the indication of whether a checkpoint has been passed or not.
   If uploading is selected, the date and time of passing the checkpoint is still sent to the event organisation's server.
 
 Realtime sharing
   Use real-time track sharing with your family, friends, etc while you are walking, cycling, running, ...
   This is only possible if the event organiser allows sharing and if this switch is on.
+
+Centre location position
+  Centring the current position on the map.
 
 Track color
   The colour of the track on the map. Click on the coloured circle to change its colour.
