@@ -1,6 +1,10 @@
 Changelog
 =========
 
+v1.4.1 (30 January 2023)
+------------------------
+* New: Update internal libraries.
+
 v1.4 (21 December 2021)
 -----------------------
 * New: Line charts for tracks and shared tracks.
