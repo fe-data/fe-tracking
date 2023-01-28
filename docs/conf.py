@@ -31,7 +31,9 @@ author = 'FE Data'
 # ones.
 extensions = [
    'sphinx_rtd_theme',
-   'sphinx_panels',
+   'sphinx_tabs.tabs',
+   'sphinxcontrib.httpdomain',
+   'sphinx_copybutton',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
