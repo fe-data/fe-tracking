@@ -1,7 +1,7 @@
 Donate
 ======
 Developing, improving and maintaining an App like *FE Tracking* for Android and IOS takes a lot of time.
-Please consider sponsoring the development of this App or a one-off donation if you enjoy this App.
+Please consider sponsoring the development of this App or making a one-off donation if you enjoy this App.
 
 You can use iDEAL, Apple Pay, Credit card, Bancontact or Giropay.
    

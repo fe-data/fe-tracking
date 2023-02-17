@@ -1,16 +1,5 @@
 Settings
 ========
-.. panels::
-   :container: container-lg
-   :column: col-lg-6 col-md-12 col-sm-12
-
-   .. raw:: html
-
-      <div style="padding:159.72% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/638714501?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-   ---
-   All changes made to the settings are applied immediately.
-
-----
 
 Checkpoint settings
 -------------------
@@ -26,21 +15,6 @@ Text-to-speech format
 
 ----
 
-News settings
--------------
-An event supports real-time messages if the :fa:`commenting-o fa-fw fa-lg text-primary` icon is visible in the tracks overview for the track in question.
-
-Sound
-  A short sound is played as soon as a news item comes in, if this setting is switched on.
-
-Text-to-speech
-  The message is spoken as soon as a news item comes in, if this setting is switched on. See also the next setting.
-
-Text-to-speech format
-  This is the sentence that is spoken when a news item comes in. The **{}** part is the message.
-
-----
-
 Map settings
 ------------
 
@@ -48,10 +22,6 @@ Disable checkpoint circles
   The checkpoints on the track are shown as light grey circles and light green circles when a checkpoint is passed.
   Disabling this option has no effect on the indication of whether a checkpoint has been passed or not.
   If uploading is selected, the date and time of passing the checkpoint is still sent to the event organisation's server.
-
-Realtime sharing
-  Use real-time track sharing with your family, friends, etc while you are walking, cycling, running, ...
-  This is only possible if the event organiser allows sharing and if this switch is on.
 
 Centre location position
   Centring the current position on the map.
@@ -78,12 +48,6 @@ Export file type
 
 General settings
 ----------------
-
-Share track link
-  Invitation format of the track which can be shared via e.g. email, WHhtsApp, Signal, ...
-  The **{event}** keyword is replaced by the name of the event and **{link}** by the actual share link.
-  If a user clicks the link, the share will added to the ``Shared tracks`` of the App.
-  If the App is not installed, the user will be asked to install the App.
 
 Audio silence period
   Android only. If the sound output is set to bluetooth, some phones may skip the first part of the spoken text.
