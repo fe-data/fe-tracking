@@ -41,7 +41,10 @@ if os.environ.get("READTHEDOCS", "") == "True":
 # ones.
 extensions = [
    'sphinx_rtd_theme',
-   'sphinx_panels',
+   'sphinx_tabs.tabs',
+   'sphinxcontrib.httpdomain',
+   'sphinx_copybutton',
+   'sphinx_design',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
