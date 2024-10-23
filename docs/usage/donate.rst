@@ -8,18 +8,18 @@ You can use iDEAL, Apple Pay, Credit card, Bancontact or Giropay.
 .. list-table::
 
     * - .. image:: ../_static/images/usage/Donate-2.png
-           :target: https://useplink.com/payment/G12wJtE7UZLaTndcKt6Kg/EUR2
+           :target: https://payment-links.mollie.com/payment/jiB8Pjxii9AhzhDCu3CyW
       - .. image:: ../_static/images/usage/Donate-5.png
-           :target: https://useplink.com/payment/G12wJtE7UZLaTndcKt6Kg/EUR5
+           :target: https://payment-links.mollie.com/payment/4aYTxVbH4NfT4XVM6GwPt
       - .. image:: ../_static/images/usage/Donate-10.png
-           :target: https://useplink.com/payment/G12wJtE7UZLaTndcKt6Kg/EUR10
+           :target: https://payment-links.mollie.com/payment/wsGzszeNg7dLC3ZaEKAyY
       - .. image:: ../_static/images/usage/Donate-25.png
-           :target: https://useplink.com/payment/G12wJtE7UZLaTndcKt6Kg/EUR25
+           :target: https://payment-links.mollie.com/payment/m6Uu8DRAACRESmKWusikS
 
 Choose your amount
 ------------------
-Choose your own amount and description
+Choose your own amount
 
 .. image:: ../_static/images/usage/Donate-choose.png
-   :target: https://useplink.com/payment/G12wJtE7UZLaTndcKt6Kg
+   :target: https://payment-links.mollie.com/payment/HmSDYRid24kkEvEzaosgo
    :scale: 50%
